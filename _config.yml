@@ -1,0 +1,28 @@
+name: ebay
+favicon: null
+layout_spectrum: 0.242796016857028
+typography_spectrum: 0.4663759188260883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.03992792475037277
+  lightness: 0.5332435616292059
+  saturation: 0.7894788349512964
+  rhythmicContrast: 0.21598581806756556
+purpose: []
